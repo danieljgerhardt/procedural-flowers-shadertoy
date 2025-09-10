@@ -1,5 +1,7 @@
 Created by Daniel and teammate Avi.
 
+The three puzzles can be swapped between by changing the comment in mainImage to the respective puzzle function.
+
 [Shadertoy link](https://www.shadertoy.com/view/tffBDr)
 
 # Lab01: Toolbox Functions
