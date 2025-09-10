@@ -1,3 +1,7 @@
+Created by Daniel and teammate Avi.
+
+[Shadertoy link](https://www.shadertoy.com/view/tffBDr)
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
